@@ -1,0 +1,53 @@
+Source,Mission,Planet,Launch,Year,EFPA (deg),Speed (km/s),Trim L/D,Control method,beta (kg/m2),Peak deceleration (g),Shape,Nose radius (m),Base area (m2),Base diameter (m),Entry mass (kg),Payload mass (kg),TPS mass fraction,Peak convective heating (W/cm2),Peak radiative heating (W/cm2),Peak heating stagnation pressure (atm),Integrated heat load (kJ/cm2),Peak stagnation heat rate (W/cm2),Forebody TPS material,Forebody TPS thickness (cm),Forebody TPS mass (kg),Aftbody TPS material,Aftbody TPS thickness (cm),Aftbody TPS mass (kg),Country,Successful,Status
+NASA Ames Blue Book,FIRE II,Earth,1965,1965,-14.24,11.35,0,Ballistic,164.1,77.2,Spherical section,0.935,0.354,0.672,86.57,NA,NA,920,650,1.046,16.136,1339,Phenolic-asbestos,0.3,NA,Phenolic-asbestos,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Apollo AS-201,Earth,1966,1966,-9.03,7.67,0,"No control, rolled",NA,14.3,"Capsule, 33 deg. cone",3,12.02,3.91,5027,NA,13.7,186,0,0.85,7.6,186,Avco 5026-39 HC,4.32,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Apollo AS-202,Earth,1966,1966,-3.74,8.35,0.372,Roll modulation,NA,NA,"Capsule, 33 deg. cone",3,12.2,3.91,5424,NA,13.7,59.2,0,0.11,18.789,59.2,Avco 5026-39 HC,4.32,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Apollo AS-501,Earth,1966,1966,-7.19,10.73,0.41,Roll modulation,340,8.79,"Capsule, 33 deg. cone",3,12.08,3.91,5424,NA,13.7,219,317,0.542,24.12,527,Avco 5026-39 HC,4.32,NA,NA,NA,NA,USA,Yes,Flown
+Dutta et al. (2012),Venera 4,Venus,1967,1967,-78,10.7,0,Ballistic,519,450,Sphere,1,0.785,1,383,NA,NA,NA,NA,NA,NA,9660,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+NASA Ames Blue Book,Apollo AS-502,Earth,1968,1968,-5.9,9.6,0.375,Roll modulation,395.8,NA,"Capsule, 33 deg. cone",3,12.02,3.91,5424,NA,13.7,197,43,0.354,32,240,Avco 5026-39 HC,4.32,NA,NA,NA,NA,USA,Yes,Flown
+Dutta et al. (2012),Venera 5,Venus,1969,1969,-65,11.2,0,Ballistic,549,450,Sphere,1,0.785,1,405,NA,NA,NA,NA,NA,NA,13500,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 6,Venus,1969,1969,-65,11.2,0,Ballistic,549,450,Sphere,1,0.785,1,405,NA,NA,NA,NA,NA,NA,13500,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 7,Venus,1970,1970,-70,11.2,0,Ballistic,677,450,Circumellipsoid,1,0.785,1,495,NA,NA,NA,NA,NA,NA,17000,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+NASA Ames Blue Book,PAET,Earth,1971,1971,-41,6.66,0,Ballistic,68.4,76,"55 deg, sphere-cone",0.457,0.66,0.914,62.1,14,17.2,227,0,0.6,1.982,227,Beryllium,2.5,NA,NA,NA,NA,USA,Yes,Flown
+Dutta et al. (2012),Venera 8,Venus,1972,1972,-77,11.6,0,Ballistic,670,500,Circumellipsoid,1,0.785,1,495,NA,NA,NA,NA,NA,NA,30000,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+NASA Ames Blue Book,Viking 1,Mars,1975,1976,-17.76,4.418,0.18,3-axis RCS rate limiting,60.41,6.86,70 deg. sphere-cone,0.8763,9.84,3.54,982.9,NA,2.8,21.1,0,0.06,1.001,21.1,SLA-561V,1.38,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Viking 2,Mars,1975,1976,-17.62,4.48,0.18,3-axis RCS rate limiting,61.44,7.2,70 deg. sphere-cone,0.876,9.84,3.54,981.6,NA,2.8,21.95,0,0.041,1.043,21.95,SLA-561V,1.38,NA,NA,NA,NA,USA,Yes,Flown
+Dutta et al. (2012),Venera 9,Venus,1975,1975,-20.5,10.7,0,Ballistic,367,150,Sphere,NA,4.52,2.4,1560,NA,NA,NA,NA,NA,NA,3040,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 10,Venus,1975,1975,-23,10.7,0,Ballistic,367,170,Sphere,NA,4.52,2.4,1560,NA,NA,NA,NA,NA,NA,3370,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+NASA Ames Blue Book,Pioneer Venus Small North,Venus,1978,1978,-68.74,11.54,0,Ballistic,190,465.9,45 deg. sphere-cone,0.19,0.46,0.76,91,NA,12.9,3085,3273,16.5,10.5,6150,Carbon-phenolic,1.2,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Pioneer Venus Small Night,Venus,1978,1978,-41.5,11.54,0,Ballistic,190,353.7,45 deg. sphere-cone,0.19,0.46,0.76,91,NA,12.9,2743,2330,4.9,11.4,4906,Carbon-phenolic,1.2,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Pioneer Venus Small Day,Venus,1978,1978,-25.42,11.54,0,Ballistic,190,227.7,45 deg. sphere-cone,0.19,0.46,0.76,91,NA,12.9,2250,1363,8.1,13.264,3476,Carbon-phenolic,1.2,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Pioneer Venus Large Probe,Venus,1978,1978,-32.37,11.54,0,Ballistic,190,286.4,45 deg. sphere-cone,0.36,1.59,1.42,316,NA,10.3,1813,2468,10.2,11.3,4145,Carbon-phenolic,1.6,NA,NA,NA,NA,USA,Yes,Flown
+Dutta et al. (2012),Venera 11,Venus,1978,1978,-21,11.2,0,Ballistic,376,167,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,4350,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 12,Venus,1978,1978,-21,11.2,0,Ballistic,379,167,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,4350,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 13,Venus,1981,1981,-21,11.2,0,Ballistic,387,167,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,4350,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Venera 14,Venus,1981,1981,-21,11.2,0,Ballistic,387,167,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,4350,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Vega 1,Venus,1984,1984,-18.23,10.7,0,Ballistic,412,130,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,3060,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+Dutta et al. (2012),Vega 2,Venus,1984,1984,-19.08,10.8,0,Ballistic,412,139,Sphere,NA,4.52,2.4,NA,NA,NA,NA,NA,NA,NA,3290,NA,NA,NA,NA,NA,NA,USSR,Yes,Flown
+NASA Ames Blue Book,Galileo,Jupiter,1989,1995,-8.41,47.41,0,Ballistic,267,228,45 deg. sphere-cone,0.22,1.26,1.26,339,NA,49.4,0,38055,7.55,210,38055,Carbon-phenolic,14.6,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,OREX,Earth,1994,1994,-3.17,7.43,0,Ballistic,56,NA,50 deg. sphere-cone,1.35,9.08,3.4,761,NA,NA,51,0,0.078,NA,51,C-C,4,NA,NA,NA,NA,Japan,Yes,Flown
+NASA Ames Blue Book,Mars Pathfinder,Mars,1996,1997,-14.06,7.48,0,Ballistic,61.5,16,70 deg. sphere-cone,0.66,5.51,2.4,585.3,NA,8.2,100.69,5.27,0.19,3.834,105.96,SLA-561V,1.9,NA,SLA-561S,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Huygens,Titan,1997,2005,-65.4,6,0,Ballistic,35,12,60 deg. sphere-cone,1.25,5.73,2.7,320,NA,13.8,29.3,0,0.1,1.397,29.3,AQ60/I,1.74,NA,Prosial,0.31,NA,ESA,Yes,Flown
+NASA Ames Blue Book,ARD,Earth,1998,1998,-2.6,7.45,NA,Roll modulation,347,11,"Capsule, 33 deg. cone",3.36,6.15,2.8,2715,NA,23,120,0,0.22,24,120,Aleastrasil,5,NA,Norcoat,1.9,NA,ESA,Yes,Flown
+NASA Ames Blue Book,Deep Space 2,Mars,1999,1999,-13.25,6.9,0,Ballistic,36.2,12.4,45 deg. sphere-cone,0.0875,0.096,0.35,3.67,NA,NA,194,0,NA,8.712,194,SIRCA-SPLIT,1,NA,FRC!,NA,NA,ESA,No,Flown
+NASA Ames Blue Book,Stardust,Earth,1999,2006,-8.23,12.45,0,Ballistic,60,32.89,60 deg. sphere-cone,0.23,0.5,0.827,45.8,NA,22,817,71,0.22,26.2,880,PICA,5.82,NA,SLA-561V,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Genesis,Earth,2001,2004,-8,10.8,0,Ballistic,80,25.7,60 deg. sphere-cone,0.43,1.78,1.51,210,NA,18,670,30,NA,16.6,700,C-C,3.8,NA,SLA-561V,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Hayabusa,Earth,2003,2007,-12.79,11.65,0,Ballistic,133,53.36,45 deg. sphere-cone,0.202,0.128,0.404,18,NA,43,1050,264,0.63,23.051,1314,Carbon-phenolic,3,NA,Carbon-phenolic,2,NA,Japan,Yes,Flown
+NASA Ames Blue Book,Beagle 2,Mars,2003,2003,-15.8,5.4,0,Ballistic,70,NA,60 deg. sphere-cone,0.417,0.67,0.924,68.46,NA,24,72,0.17,0.18,2.449,72.28,Norcoat,0.8,NA,NA,NA,NA,ESA,No,Flown
+NASA Ames Blue Book,MER B,Mars,2003,2004,-10.75,5.39,0,Ballistic,88.96,4.78,70 deg. sphere-cone,0.66,5.499,2.65,832.2,NA,5.6,37.72,0,0.08,3.064,37.75,SLA-561V,1.57,NA,SLA-561V,0.5,10.4,USA,Yes,Flown
+NASA Ames Blue Book,MSL,Mars,2011,2012,-16,5.8,0.24,Roll modulation,146,9.7,70 deg. sphere-cone,1.125,15.9,4.5,3257,NA,NA,197,0,NA,5.477,197,PICA,3.18,NA,SLA-561V,1.27,NA,USA,Yes,Flown
+NASA Ames Blue Book,IRVE-3,Earth,2012,2012,-74,2.7,0.2,Roll modulation,58,20,60 deg. sphere-cone,0.191,7.07,3,281,NA,20,14,0,NA,0.193,14,Nextel,0.6,NA,NA,NA,NA,USA,Yes,Flown
+NASA Ames Blue Book,Hayabusa 2,Earth,2014,2020,-12.06,11.58,0,Ballistic,113.5,46.3,45 deg. sphere-cone,0.202,0.1287,0.404,16,NA,NA,1110,180,0.44,27,1300,Carbon-phenolic,NA,NA,Carbon-phenolic,2,NA,Japan,Yes,Flown
+NASA Ames Blue Book,Orion EFT-1,Earth,2014,2014,-12.6,8.9,0.25,Roll modulation,360,3.2,Spherical section,6.035,19.8,5.03,9611,NA,5.9,170,15,0.56,25,185,Avcoat,4,454,NA,4.2,NA,USA,Yes,Flown
+Other,CARE,Earth,2015,2015,0,5.326,0,Ballistic,350,12.5,Spherical section,3,7.54,2.1,3735,NA,NA,50,0,NA,2.5,50,NA,NA,NA,NA,NA,NA,India,Yes,Flown
+NASA Ames Blue Book,ExoMars 2016,Mars,2016,2016,-12.43,5.83,NA,NA,74.6,NA,70 deg. sphere-cone,0.6,4.52,2.4,577,NA,17,70,10,0.11,NA,80,Norcoat,1.8,80,Norcoat,1.5,20,ESA,No,Flown
+NASA Ames Blue Book,OSIRIS-REX,Earth,2016,2023,-8.2,12.2,0,Ballistic,71,32,60 deg. sphere-cone,0.23,0.52,0.827,46,NA,22,1070,130,0.22,36,1200,PICA,5.82,NA,SLA-561V,1.397,NA,USA,NA,Planned
+NASA Ames Blue Book,Mars 2020,Mars,2020,2021,-16.18,5.33,0.248,Roll modulation,143.2,10.73,70 deg. sphere-cone,1,15.9,4.5,3317,NA,8.4,68.4,0,0.24,1.672,68.4,PICA,3.18,212,SLA-561V,1.27,64,USA,Yes,Flown
+Author estimated,Tianwen-1,Mars,2020,2021,-11.6,4.9,0.15,Roll modulation,NA,NA,NA,NA,NA,NA,1200,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,China,Yes,Flown
+Author estimated,Dragonfly,Titan,2027,2034,-49.7,7.3,0,Ballistic,140,12,60 deg. sphere-cone,0.43,10.75,2,1000,NA,NA,100,0,NA,8,100,NA,NA,NA,NA,NA,NA,USA,NA,Planned
+Decadal Mission Study,Uranus Probe (Decadal),Uranus,2032,2045,-30.7,20.5,0,Ballistic,216,114,45 deg. sphere-cone,0.4,1.23,1.26,265,120,NA,NA,NA,NA,NA,1876,HEEET,NA,NA,NA,NA,NA,USA,NA,Planned
+Ice Giant Pre-Decadal Study,Uranus Probe Design #2 (Pre-Decadal),Uranus,2030,2041,-30,21.1,0,Ballistic,283,165,45 deg. sphere-cone,0.4,1.13,1.2,320,154,10,2498,NA,9,41,2498,HEEET,NA,28.67,PICA,NA,3.5,USA,NA,Proposed
+Ice Giant Pre-Decadal Study,Neptune Probe Design #3 (Pre-Decadal),Neptune,2030,2043,-20,23.73,0,Ballistic,283,208,45 deg. sphere-cone,0.4,1.13,1.2,320,154,12,5362,99,11.5,109,5462,HEEET,NA,39,PICA,NA,5,USA,NA,Proposed
+Girija et al. (2023),Mars SmallSat aerocapture,Mars,2030,2031,-9.25,5.36,0,Ballistic,20,2.5,60 deg. sphere-cone,0.2,1.766,1.5,50,25,NA,20,0,NA,11,20,Carbon-cloth,NA,NA,NA,NA,NA,NA,NA,Proposed
+Girija et al. (2023),Venus SmallSat aerocapture,Venus,2030,2031,-5.2,10.8,0,Ballistic,20,7,60 deg. sphere-cone,0.2,1.766,1.5,50,25,NA,191,0,0,22,191,Carbon-cloth,NA,NA,NA,NA,NA,NA,NA,Proposed
+Girija et al. (2023),Uranus aerocapture,Uranus,2031,2039,-11.7,29.36,0.24,Roll modulation,146,10,70 deg. sphere-cone,1.125,15.9,4.5,3238,1770,20,2000,NA,NA,230,2000,HEEET,NA,NA,NA,NA,NA,NA,NA,Proposed
